@@ -4,7 +4,7 @@
   "description": "",
   "main": "json-server -- db.json",
   "scripts": {
-    "start": "node json-server -- db.json"
+    "start": "json-server -- db.json"
   },
     "engine": {
     "node": "*",
