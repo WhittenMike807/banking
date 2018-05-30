@@ -2,9 +2,9 @@
   "name": "bank-server",
   "version": "1.0.0",
   "description": "",
-  "main": "json-server -- db.json",
+  "main": "hotel add json-server -- db.json",
   "scripts": {
-    "start": "json-server -- db.json"
+    "start": "hotel add json-server -- db.json"
   },
     "engine": {
     "node": "*",
