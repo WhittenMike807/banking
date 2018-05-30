@@ -2,7 +2,7 @@
   "name": "bank-server",
   "version": "1.0.0",
   "description": "",
-  "main": "hotel add json-server -- db.json",
+  "main": "hotel add 'npm start'",
   "scripts": {
     "start": "hotel add json-server -- db.json"
   },
